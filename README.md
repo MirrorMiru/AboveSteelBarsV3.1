@@ -4,7 +4,7 @@ Version 2.1. Full release 3(.1), now with 2 levels, less bugs, and no fullscreen
 
 ![Logo](https://github.com/MirrorMiru/MIRU/blob/main/Bruh.png)
 
-![Credit](https://github.com/MirrorMiru/AboveSteelBarsV3.1/credit.png)
+![Credit](https://github.com/MirrorMiru/AboveSteelBarsV3.1/images/credit.png)
 
 https://twitter.com/origamirepetika
 
