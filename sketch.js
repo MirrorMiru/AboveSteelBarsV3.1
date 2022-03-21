@@ -111,7 +111,7 @@ function preload(){
     diee = loadAnimation("images/DieEnemy.png")
     diew = loadAnimation("images/DieWrench.png")
 
-    creditI = loadImage("images/credit.png")
+    creditI = loadImage("images/Credit.png")
 
     doorImg = loadImage("images/DoorG.png")
 
