@@ -111,7 +111,7 @@ function preload(){
     diee = loadAnimation("images/DieEnemy.png")
     diew = loadAnimation("images/DieWrench.png")
 
-    creditI = loadImage("https://github.com/MirrorMiru/AboveSteelBarsV3.1/blob/96ddcbd1d9a4e23c572c7e2eb5e238a08cf087fd/images/credit.png")
+    creditI = loadImage("images/credit.png")
 
     doorImg = loadImage("images/DoorG.png")
 
